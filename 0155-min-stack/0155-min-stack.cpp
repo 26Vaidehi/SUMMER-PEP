@@ -1,3 +1,15 @@
+/* 
+Idea: Hum stack me actual value nahi, kabhi-kabhi encoded value (2*val - minVal) store karte hain jab naya element current minimum se chhota hota hai. Isse purana minimum indirectly save ho jata hai.
+
+Push: Agar val >= minVal hai to normally push karo. Agar val < minVal hai to encoded value push karo aur minVal = val update kar do.
+
+Pop: Agar top encoded value hai (top < minVal), to iska matlab current minimum remove ho raha hai. Purana minimum formula (2*minVal - top) se wapas nikal lo, phir pop karo.
+
+Top: Agar top encoded hai (top < minVal), to actual top value `minVal` hoti hai. Warna normal top hi answer hai.
+
+Benefit: Sirf ek hi stack + ek variable (`minVal`) use hota hai, aur `push`, `pop`, `top`, `getMin` sab O(1) time aur O(1) extra space me ho jate hain.
+*/
+
 class MinStack {
 public:
     stack<long long int> s;
