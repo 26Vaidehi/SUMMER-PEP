@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
