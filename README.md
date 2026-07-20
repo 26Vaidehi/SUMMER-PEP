@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0144-binary-tree-preorder-traversal) |
+| [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0662-maximum-width-of-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
