@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
