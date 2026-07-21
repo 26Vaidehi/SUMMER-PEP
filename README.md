@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/1020-number-of-enclaves) |
 ## Binary Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/1020-number-of-enclaves) |
 ## Stack
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
