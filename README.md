@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0695-max-area-of-island) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
