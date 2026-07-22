@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Design
 |  |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0135-candy) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/26Vaidehi/SUMMER-PEP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
